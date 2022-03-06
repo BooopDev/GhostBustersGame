@@ -1,2 +1,2 @@
-# Trapped
- Trapped Game Project Files
+# GhostBusters Game
+ GhostBusters Game Project Files
